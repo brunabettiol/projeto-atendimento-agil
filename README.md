@@ -15,7 +15,7 @@ Pensando em como resolver esta questão, desenhei possíveis soluções de organ
 
 ![Processo Anterior](./Processo%20proposto.png)
 
-Neste fluxo, a principal característica é a divisão em três etapas. Onde na primeira o foco era a triagem, na segunda, o atendimento médico e na última o teste. Desta forma, a proposta é haver rodízios entre as enfermeiras, fazendo com que durantes espaços de tempo cada enfermeira poderia cumprir com demandas diferentes, trazendo menos estresse durante o dia-a-dia no trabalho. 
+Neste fluxo, a principal característica é a divisão em três etapas. Onde na primeira o foco era a triagem, na segunda, o atendimento médico e na última o teste. Desta forma, a proposta é haver rodízios entre as enfermeiras, fazendo com que durante espaços de tempo cada enfermeira poderia cumprir com demandas diferentes, trazendo menos estresse durante o dia-a-dia no trabalho. 
 
 O modelo proposto, foi implementado e mostrou-se eficiente, durante a primeira semana, notamos confusão entre nós tec. de enfermagem, pois tudo era um pouco diferente e fora do nosso habitual, porém após este período, o processo foi absorvido e tornou-se confortável. Provendo uma carga menor de esforço para nós, e atendimento muito mais rápido ao cliente. 
 
